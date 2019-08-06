@@ -600,7 +600,7 @@ var QRCode;
 	};
 	
 	/**
-	 * @name QRCode.CorrectLevel
+	 * @name QRCode.CorrectLevel test
 	 */
 	QRCode.CorrectLevel = QRErrorCorrectLevel;
 })();
